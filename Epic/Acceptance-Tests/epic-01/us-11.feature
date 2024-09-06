@@ -1,4 +1,4 @@
-Feature: 	Sección de universitario en la Landing Page
+Feature: Sección de universitario en la Landing Page
 
 #Como universitario, quiero acceder a una sección dedicada a universitarios para unirme como universitario a EcoMovil
 
