@@ -1,4 +1,4 @@
-Feature: 	Sección de conozca más sobre nosotros en la Landing Page
+Feature: Sección de conozca más sobre nosotros en la Landing Page
 
 #Como universitario o adquiriente, quiero acceder a una sección de “Conozca más sobre nosotros” para obtener información detallada sobre EcoMovil;
 
