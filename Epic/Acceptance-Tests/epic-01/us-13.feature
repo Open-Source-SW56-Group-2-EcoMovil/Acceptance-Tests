@@ -1,4 +1,4 @@
-Feature: 	Botón de empieza tu viaje en la Landing Page
+Feature: Botón de empieza tu viaje en la Landing Page
 
 #Como universitario o adquiriente, quiero encontrar un botón para empezar mi viaje en EcoMovil;
 
