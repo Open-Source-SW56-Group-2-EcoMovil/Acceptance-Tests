@@ -1,6 +1,6 @@
 Feature: Barra de navegación en la Landing Page
 
-#Como universitario o adquiriente quiero visualizar una landing page para conocer las funciones de la aplicación.
+#Como universitario o adquiriente quiero visualizar una landing page para conocer las funciones de la aplicación;
 
   Scenario Outline: Visualización de la Barra de Navegación
     Given el universitario o adquiriente se encuentre en la landing page
