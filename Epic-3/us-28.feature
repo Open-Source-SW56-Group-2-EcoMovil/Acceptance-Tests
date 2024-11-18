@@ -9,4 +9,4 @@ Feature: Actualizar la información personal del perfil en EcoMovil
     When El usuario modifica su información personal (como nombre, correo electrónico o número de teléfono)
     And El usuario guarda los cambios
     Then La información actualizada se almacena correctamente en el sistema
-    And El usuario ve un mensaje de confirmación indicando que el perfil ha sido actualizado exitosamente
+    And El usuario ve un mensaje de confirmación indicando que el perfil ha sido actualizado
